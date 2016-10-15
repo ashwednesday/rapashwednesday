@@ -31,11 +31,16 @@ h1 {
   line-height: .5;
 }
 
-ul {
-  list-style-type: none;
-  display: flex;
-  justify-content: space-around;
+h2 {
+  font-size: 1.3rem;
 }
+@media (min-width: 700px) {
+  h2 {
+    font-size: 1.5rem;
+  }
+}
+
+
 
 nav {
   max-width: 20rem;
@@ -45,11 +50,27 @@ nav {
   img {
     height: 70%;
   }
-
+  
+  ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+  }
 }
 
 footer {
   text-align: center;
+  ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+  }
+  @media (min-width: 700px) {
+    ul {
+      flex-direction: row;
+      justify-content: space-around;
+    }
+  }
 }
 
 .featured-album {
@@ -59,7 +80,28 @@ footer {
 
 .featured-album__items {
   display: flex;
-  justify-content: space-around;
+  flex-direction: column;
+  
+
+  .soundcloud-widget {
+    width: 50%;
+    margin: 0 auto;
+  }
+
+  iframe {
+    width: 75%;
+    height: 100%;
+    padding-top: 1rem;
+  }
+
+  @media (min-width: 700px) {
+    flex-direction: row;
+    justify-content: space-aroun;
+    iframe {
+      width: 80%;
+      padding-top: 0rem;
+    }
+  }
 
   img {
     height: 90%;
@@ -67,7 +109,14 @@ footer {
 
   button {
     padding: .7rem;
-    width: 60%;
+    width: 40%;
+  }
+
+  @media (min-width: 700px) {
+    button {
+      padding: .7rem;
+      width: 60%;
+    }
   }
 }
 
