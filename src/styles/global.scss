@@ -1,0 +1,74 @@
+@charset "UTF-8";
+@import url(//fonts.googleapis.com/css?family=Oswald);
+
+body {
+  height: 100%;
+  padding: 5%;
+
+  font-size: 1.5em;
+  /* currently ems cause chrome bug misinterpreting rems on body element */
+  line-height: 1.6;
+  font-weight: 400;
+  font-family: 'Oswald', sans-serif;
+
+  color: #222; 
+  display: flex;
+  justify-content: center;
+}
+
+h1, h2, h3 {
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  font-size: 6rem;
+  line-height: .5;
+}
+
+.h1-subtitle {
+  font-size: 2.3rem;
+  line-height: .5;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav {
+  max-width: 20rem;
+  margin: 0 auto;
+  padding-top: 5%;
+
+  img {
+    height: 70%;
+  }
+
+}
+
+footer {
+  text-align: center;
+}
+
+.featured-album {
+  min-width: 900px;
+  text-align: center;
+}
+
+.featured-album__items {
+  display: flex;
+  justify-content: space-around;
+
+  img {
+    height: 90%;
+  }
+
+  button {
+    padding: .7rem;
+    width: 60%;
+  }
+}
+
+
