@@ -1,0 +1,21 @@
+<template>
+  <footer>
+    <ul>
+      <li>
+        Facebook
+      </li>
+      <li>
+        Twitter
+      </li>
+      <li>
+        Instagram
+      </li>
+      <li>
+        Soundcloud
+      </li>
+    </ul>
+    <p>
+      Contact: rapashwednesday@gmail.com
+    </p>
+  </footer>
+</template>
