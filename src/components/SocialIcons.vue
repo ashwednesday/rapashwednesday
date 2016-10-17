@@ -2,16 +2,16 @@
   <nav>
     <ul>
       <li>
-        <img class="social-icon" src="../assets/facebook.png" alt="Facebook">
+        <a href="https://www.facebook.com/rapashwednesday/"><img class="social-icon" src="../assets/facebook.png" alt="Facebook"></a>
       </li>
       <li>
-        <img class="social-icon" src="../assets/twitter.png" alt="Twitter">
+        <a href="https://twitter.com/rapashwednesday"><img class="social-icon" src="../assets/twitter.png" alt="Twitter"></a>
       </li>
       <li>
-        <img class="social-icon" src="../assets/instagram.png" alt="Instagram">
+        <a href="https://www.instagram.com/rapashwednesday/"><img class="social-icon" src="../assets/instagram.png" alt="Instagram"></a>
       </li>
       <li>          
-        <img class="social-icon" src="../assets/soundcloud.png" alt="Sound Cloud">
+       <a href="https://soundcloud.com/rapashwednesday/"><img class="social-icon" src="../assets/soundcloud.png" alt="Sound Cloud"></a>
       </li>
     </ul>
   </nav>

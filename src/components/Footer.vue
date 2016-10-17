@@ -2,16 +2,16 @@
   <footer>
     <ul>
       <li>
-        Facebook
+        <a href="https://www.facebook.com/rapashwednesday/">Facebook</a>
       </li>
       <li>
-        Twitter
+        <a href="https://twitter.com/rapashwednesday">Twitter</a>
       </li>
       <li>
-        Instagram
+        <a href="https://www.instagram.com/rapashwednesday/">Instagram</a>
       </li>
       <li>
-        Soundcloud
+        <a href="https://soundcloud.com/rapashwednesday/">Soundcloud</a>
       </li>
     </ul>
     <p>
