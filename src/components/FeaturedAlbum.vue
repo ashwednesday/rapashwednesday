@@ -27,7 +27,7 @@
 
   .featured-album__items {
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
     
     @media (min-width: 700px) {
       flex-direction: row;
@@ -35,9 +35,15 @@
     }
 
     img {
-      height: 90%;
+      width: 100%
     }
 
+    @media (min-width: 700px) {
+      img {
+        height: 90%;
+        width: auto;
+      }
+    }
   }
 
   button {
