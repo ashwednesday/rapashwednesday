@@ -7,6 +7,9 @@
     <section class="upcoming">
       <h3>Upcoming:</h3>
       <ul>
+        <li>
+          <i>No upcoming shows scheduled.</i>
+        </li>
       </ul>
     </section>
 
