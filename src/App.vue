@@ -18,6 +18,7 @@
   </div>
 </template>
 
+<style src="./styles/normalize.css"></style>
 <style src="./styles/global.scss" lang="scss"></style>
 
 <script>
