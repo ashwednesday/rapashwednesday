@@ -1,6 +1,9 @@
 <template>
   <section class="featured-album">
-    <h2> Ugly On Purpose Mixtape Now Available</h2>
+    <header>
+      <h2> Ugly On Purpose Mixtape Now Available</h2>
+      <h3>Download EP or listen on Soundcloud.</h3>
+    </header>
     <div class="featured-album__items">
       <div class="download-album">
         <div class="download-album-cover">
@@ -14,7 +17,6 @@
       </div>
 
     </div>
-    <p>Download EP or listen to on Soundcloud.</p>
   </section>
 </template>
 
@@ -29,23 +31,45 @@
     
     @media (min-width: 700px) {
       flex-direction: row;
-      justify-content: center;
+      justify-content: space-around;
     }
 
     img {
       height: 90%;
     }
 
-    button {
-      padding: .7rem;
-      width: 40%;
-    }
+  }
 
-    @media (min-width: 700px) {
-      button {
-        padding: .7rem;
-        width: 60%;
-      }
+  button {
+    width: 40%;
+    display: inline-block;
+    height: 38px;
+    padding: 0 30px;
+    color: #555;
+    text-align: center;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: .1rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: transparent;
+    border-radius: 4px;
+    border: 1px solid #bbb;
+    cursor: pointer;
+    box-sizing: border-box;
+  }
+
+  button:hover, button:focus {
+    color: #333;
+    border-color: #888;
+    outline: 0; 
+  }
+
+  @media (min-width: 700px) {
+    button {
+      width: 60%;
     }
   }
 
