@@ -19,7 +19,6 @@
 
 <style lang="scss" scoped>
   nav {
-    max-width: 20rem;
     margin: 0 auto;
     padding-top: 5%;
     color: white;
