@@ -44,6 +44,7 @@
         width: auto;
       }
     }
+  
   }
 
   button {
@@ -51,7 +52,7 @@
     display: inline-block;
     height: 38px;
     padding: 0 30px;
-    color: #555;
+    color: black;
     text-align: center;
     font-size: 11px;
     font-weight: 600;
@@ -60,7 +61,7 @@
     text-transform: uppercase;
     text-decoration: none;
     white-space: nowrap;
-    background-color: transparent;
+    background-color: #EBC967;
     border-radius: 4px;
     border: 1px solid #bbb;
     cursor: pointer;

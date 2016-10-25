@@ -42,7 +42,7 @@
   }
 
   p {
-    color: lighten(black, 40%);
+    color: lighten(white, 40%);
     font-size: 1.2rem;
   }
 </style>

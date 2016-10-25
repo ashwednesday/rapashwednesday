@@ -21,6 +21,14 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: 'Oswald', sans-serif;
+
+  background-image: url('../assets/background.jpg');
+  background-size: cover;
+  color: #faf4ff;
+}
+
+header {
+  padding-bottom: 1rem;
 }
 
 ul {
@@ -64,6 +72,7 @@ h1 {
     }
   }
 }
+
 
 
 

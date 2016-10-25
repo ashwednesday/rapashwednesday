@@ -15,7 +15,10 @@
       </li>
     </ul>
     <p>
-      Contact: rapashwednesday@gmail.com
+      Contact:
+    </p>
+    <p>
+      rapashwednesday@gmail.com
     </p>
   </footer>
 </template>
@@ -34,5 +37,13 @@
         justify-content: space-around;
       }
     }
+  }
+
+  a {
+    color: #702A45;
+  }
+
+  a:hover {
+    color: #a04065; 
   }
 </style>
