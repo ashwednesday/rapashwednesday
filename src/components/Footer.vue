@@ -18,7 +18,7 @@
       Contact:
     </p>
     <p>
-      rapashwednesday@gmail.com
+      <a href="mailto:rapashwednesday@gmail.com">rapashwednesday@gmail.com</a>
     </p>
   </footer>
 </template>

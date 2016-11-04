@@ -10,7 +10,7 @@
     <SocialIcons></SocialIcons>
     <FeaturedAlbum></FeaturedAlbum>
     <hr />
-    <LatestTracks></LatestTracks>
+    <LatestSingles></LatestSingles>
     <hr />
     <Shows></Shows>
     <hr />
@@ -22,19 +22,17 @@
 <style src="./styles/global.scss" lang="scss"></style>
 
 <script>
-  import Hello from './components/Hello'
   import FeaturedAlbum from './components/FeaturedAlbum'
   import SocialIcons from './components/SocialIcons'
-  import LatestTracks from './components/LatestTracks'
+  import LatestSingles from './components/LatestSingles'
   import Shows from './components/Shows'
   import Footer from './components/Footer'
 
   export default {
     components: {
-      Hello,
       FeaturedAlbum,
       SocialIcons,
-      LatestTracks,
+      LatestSingles,
       Shows,
       Footer
     }

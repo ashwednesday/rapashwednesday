@@ -1,8 +1,7 @@
 <template>
   <section class="featured-album">
     <header>
-      <h2> Ugly On Purpose Mixtape Now Available</h2>
-      <h3>Download EP or listen on Soundcloud.</h3>
+      <h2> Ugly On Purpose</h2>
     </header>
     <div class="featured-album__items">
       <div class="download-album">
