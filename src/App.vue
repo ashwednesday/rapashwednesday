@@ -5,13 +5,7 @@
         Merch
       </a>
     </div>
-    <h1>
-      ASH
-      <br />
-      <span class="h1-subtitle">
-        Wednesday
-      </span>
-    </h1>
+    <h1>ASH<br /><span class="h1-subtitle">Wednesday</span></h1>
     <SocialIcons></SocialIcons>
     <FeaturedAlbum></FeaturedAlbum>
     <hr />
