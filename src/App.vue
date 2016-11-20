@@ -1,5 +1,10 @@
 <template>
   <div id="app">
+    <div class='store-row'>
+      <a class='store-cta' href='https://squareup.com/store/rapashwednesday'>
+        Merch
+      </a>
+    </div>
     <h1>
       ASH
       <br />
@@ -20,6 +25,25 @@
 
 <style src="./styles/normalize.css"></style>
 <style src="./styles/global.scss" lang="scss"></style>
+
+<style lang="scss" scoped>
+  .store-row {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .store-cta {
+    text-transform: uppercase;
+    width: 100px;
+    padding: 8px;
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    text-align: center;
+    outline: none;
+    text-decoration: none;
+  }
+</style>
 
 <script>
   import FeaturedAlbum from './components/FeaturedAlbum'
