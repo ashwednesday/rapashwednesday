@@ -40,7 +40,7 @@
   }
 
   a {
-    color: #702A45;
+    color: #bc4975;
   }
 
   a:hover {
