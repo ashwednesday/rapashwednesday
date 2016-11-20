@@ -12,9 +12,14 @@
           <th>Location</th>
         </tr>
         <h3>Upcoming:</h3>
+          <tr>
+          <td>12/15/16</td>
+          <td><a href="http://www.townshipchicago.com/">Township</a></td>
+          <td>Chicago, IL</td>
+        </tr>
         <tr>
           <td>12/29/16</td>
-          <td>The Refuge</td>
+          <td><a href="http://www.refugelivechicago.com/">The Refuge</a></td>
           <td>Chicago, IL</td>
         </tr>
         <h3>Past:</h3>
