@@ -11,8 +11,10 @@
           <th>Venue</th>
           <th>Location</th>
         </tr>
-        <h3>Upcoming:</h3>
-          <tr>
+        <tr>
+          <td align="center" colspan="3"><h3>Upcoming:</h3></td>
+        </tr>
+        <tr>
           <td>12/15/16</td>
           <td><a href="http://www.townshipchicago.com/">Township</a></td>
           <td>Chicago, IL</td>
@@ -22,7 +24,9 @@
           <td><a href="http://www.refugelivechicago.com/">The Refuge</a></td>
           <td>Chicago, IL</td>
         </tr>
-        <h3>Past:</h3>
+        <tr>
+          <td align="center" colspan="3"><h3>Past:</h3></td>
+        </tr>
         <tr>
           <td>9/17/16</td>
           <td>The Friendship House</td>
@@ -75,5 +79,9 @@
   p {
     color: lighten(white, 40%);
     font-size: 1.2rem;
+  }
+
+  h3 {
+    text-align: center;
   }
 </style>
