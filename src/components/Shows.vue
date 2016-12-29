@@ -1,10 +1,10 @@
 <template>  
   <article class="shows">
+    <a name='shows' />
     <header>
       <h2>Shows</h2>
     </header>
-
-<section class="past">
+    <section class="past">
       <table>
         <tr>  
           <th>Date</th>
@@ -63,11 +63,6 @@
 </template>
 
 <style lang="scss" scoped>
-
-  header {
-    text-align: center;
-  }
-  
   table {
     width: 100%;
   }
