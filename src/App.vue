@@ -28,7 +28,8 @@
   }
   .store-cta {
     text-transform: uppercase;
-    width: 100px;
+    width: 70px;
+    margin-bottom: 20px;
     padding: 8px;
     color: #fff;
     border: 2px solid #fff;
@@ -36,6 +37,11 @@
     text-align: center;
     outline: none;
     text-decoration: none;
+
+    @media (min-width: 400px) {
+      width: 100px;
+      margin-bottom: 0;
+    }
   }
 </style>
 
