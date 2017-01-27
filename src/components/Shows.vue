@@ -15,9 +15,17 @@
           <td align="center" colspan="3"><h3>Upcoming:</h3></td>
         </tr>
         <tr>
-          <td>12/15/16</td>
-          <td><a href="http://www.townshipchicago.com/">Township</a></td>
+          <td>02/19/17</td>
+          <td><a href="http://www.shitholehq.com/">The Shithole</a></td>
           <td>Chicago, IL</td>
+        </tr>
+        <tr>
+          <td>09/30/17</td>
+          <td><a href="http://www.refugelivechicago.com/">Crane Artist Lofts</a></td>
+          <td>Des Moines, IA</td>
+        </tr>
+        <tr>
+          <td align="center" colspan="3"><h3>Past:</h3></td>
         </tr>
         <tr>
           <td>12/29/16</td>
@@ -25,7 +33,9 @@
           <td>Chicago, IL</td>
         </tr>
         <tr>
-          <td align="center" colspan="3"><h3>Past:</h3></td>
+          <td>12/15/16</td>
+          <td><a href="http://www.townshipchicago.com/">Township</a></td>
+          <td>Chicago, IL</td>
         </tr>
         <tr>
           <td>9/17/16</td>
