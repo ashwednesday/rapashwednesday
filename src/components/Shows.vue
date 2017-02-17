@@ -15,7 +15,7 @@
           <td align="center" colspan="3"><h3>Upcoming:</h3></td>
         </tr>
         <tr>
-          <td>02/19/17</td>
+          <td>03/12/2017</td>
           <td><a href="http://www.shitholehq.com/">The Shithole</a></td>
           <td>Chicago, IL</td>
         </tr>
