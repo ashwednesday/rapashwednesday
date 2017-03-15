@@ -15,17 +15,17 @@
           <td align="center" colspan="3"><h3>Upcoming:</h3></td>
         </tr>
         <tr>
-          <td>03/12/2017</td>
-          <td><a href="http://www.shitholehq.com/">The Shithole</a></td>
-          <td>Chicago, IL</td>
-        </tr>
-        <tr>
           <td>09/30/17</td>
           <td><a href="http://www.refugelivechicago.com/">Crane Artist Lofts</a></td>
           <td>Des Moines, IA</td>
         </tr>
         <tr>
           <td align="center" colspan="3"><h3>Past:</h3></td>
+        </tr>
+        <tr>
+          <td>03/12/2017</td>
+          <td><a href="http://www.shitholehq.com/">The Shithole</a></td>
+          <td>Chicago, IL</td>
         </tr>
         <tr>
           <td>12/29/16</td>
