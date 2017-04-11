@@ -12,6 +12,9 @@
     <li>          
       <a href="https://soundcloud.com/rapashwednesday/"><img class="social-icon" src="../assets/soundcloud.svg" alt="Sound Cloud"></a>
     </li>
+    <li>          
+      <a href="https://soundcloud.com/rapashwednesday/"><img class="social-icon" src="../assets/youtube.svg" alt="YouTube"></a>
+    </li>
   </ul>
 </template>
 
@@ -26,6 +29,7 @@
 
     img {
       height: 70%;
+      max-width: 32px;
     }
 
 
