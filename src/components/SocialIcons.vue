@@ -7,13 +7,13 @@
       <a href="https://twitter.com/rapashwednesday"><img class="social-icon" src="../assets/twitter.svg" alt="Twitter"></a>
     </li>
     <li>          
-      <a href="https://www.youtube.com/channel/UCkpcBvbeaTvPRxYCwdF-IFg"><img class="social-icon" src="../assets/youtube.svg" alt="YouTube"></a>
+      <a href="https://soundcloud.com/rapashwednesday/"><img class="social-icon" src="../assets/soundcloud.svg" alt="Sound Cloud"></a>
     </li>
     <li>
       <a href="https://www.instagram.com/rapashwednesday/"><img class="social-icon" src="../assets/instagram.svg" alt="Instagram"></a>
     </li>
     <li>          
-      <a href="https://soundcloud.com/rapashwednesday/"><img class="social-icon" src="../assets/soundcloud.svg" alt="Sound Cloud"></a>
+      <a href="https://www.youtube.com/channel/UCkpcBvbeaTvPRxYCwdF-IFg"><img class="social-icon" src="../assets/youtube.svg" alt="YouTube"></a>
     </li>
   </ul>
 </template>
