@@ -6,7 +6,7 @@
     </header>
     <section>
       <p>
-        Ash Wednesday & The Heroic Dose are best known for their obscure sample game, rich melodies, and most of all, Ash Wednesday’s fuck-you-nicely lyricism. Her verbose rhymes take on themes of power, social control, and self-rule, all while keeping the floor jumping. The Heroic Dose—comprised of Mike Balish on keyboard and Joel Handley on drums—bring a level of musicality to the game that’s seldom heard in hip-hop. Though their music defies genre (jazz hop? rock & rap?), they’re doing it with swag to spare.
+        Ash Wednesday & The Heroic Dose are best known for their obscure sample game, rich melodies, and most of all, Ash Wednesday’s fuck-you-nicely lyricism. Her verbose rhymes take on themes of power, social control, and self-rule, all while keeping the floor jumping. The Heroic Dose [Mike Balish on keyboard & Joel Handley on drums] lend their musical sensibilities.
       </p>
       <p>
         Though Ash has been talking shit and taking names since day one, she’s been doing it with a band behind her since 2012. Ash got into rapping in 2010 after a long fascination with the art form, which she discovered around age 12. Her first appearances on stage in Chicago were at Subterranean Lounge’s 606 Freestyle Open Mic where she earned her moniker Ash Wednesday.
