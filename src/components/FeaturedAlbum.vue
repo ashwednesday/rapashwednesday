@@ -11,9 +11,12 @@
         <button>Download EP</button>
       </div>
 
+      <div style='margin-bottom: 20px;'>
+      <iframe src="https://open.spotify.com/embed?uri=spotify:album:2JFf60r7ChmBxijYEddSOJ&theme=white" width="330" height="420" frameborder="0" allowtransparency="true"></iframe></div>
+<!--
       <div class="soundcloud-widget">
         <iframe scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/153720446&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-      </div>
+      </div>-->
 
     </div>
   </section>
@@ -27,7 +30,7 @@
   .featured-album__items {
     display: flex;
     flex-direction: column-reverse;
-    
+
     @media (min-width: 700px) {
       flex-direction: row;
       justify-content: space-around;
@@ -43,7 +46,7 @@
         width: auto;
       }
     }
-  
+
   }
 
   button {
@@ -70,7 +73,7 @@
   button:hover, button:focus {
     color: #333;
     border-color: #888;
-    outline: 0; 
+    outline: 0;
   }
 
   @media (min-width: 700px) {

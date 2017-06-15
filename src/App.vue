@@ -22,9 +22,8 @@
     <hr />
     <LatestSingles></LatestSingles>
     <hr />
-    <Shows></Shows>
-    <hr />
     <About></About>
+    <Shows></Shows>
     <hr />
     <Footer></Footer>
   </div>
@@ -35,7 +34,7 @@
 
 <style lang="scss" scoped>
   .hero {
-    display: flex; 
+    display: flex;
     justify-content: center;
     max-width: 330px;
     margin: 0 auto;
@@ -50,7 +49,7 @@
       padding-left: 4rem;
     }
   }
-  
+
   .store-row {
     width: 100%;
     display: flex;
