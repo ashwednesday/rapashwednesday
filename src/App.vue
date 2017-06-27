@@ -40,7 +40,7 @@
     margin: 0 auto;
 
     a {
-      color: white;
+      color: #EBC967;
       text-decoration: none;
     }
 
